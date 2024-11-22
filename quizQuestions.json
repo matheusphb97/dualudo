@@ -1,0 +1,378 @@
+[
+  {
+    "question": "Pergunta: O que é a luz?",
+    "options": [
+      { "option": "Uma forma de som", "isCorrect": false },
+      { "option": "Uma partícula sólida", "isCorrect": false },
+      { "option": "Uma onda eletromagnética", "isCorrect": true },
+      { "option": "Uma força gravitacional", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é a velocidade da luz no vácuo?",
+    "options": [
+      { "option": "300.000 km/s", "isCorrect": true },
+      { "option": "150.000 km/s", "isCorrect": false },
+      { "option": "450.000 km/s", "isCorrect": false },
+      { "option": "600.000 km/s", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual fenômeno ocorre quando a luz passa de um meio para outro e muda de direção?",
+    "options": [
+      { "option": "Reflexão", "isCorrect": false },
+      { "option": "Refração", "isCorrect": true },
+      { "option": "Difração", "isCorrect": false },
+      { "option": "Polarização", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "O que é difração?",
+    "options": [
+      {
+        "option": "A separação da luz em cores diferentes",
+        "isCorrect": false
+      },
+      {
+        "option": "A curvatura da luz ao passar por uma borda",
+        "isCorrect": true
+      },
+      { "option": "A reflexão da luz em um espelho", "isCorrect": false },
+      { "option": "A absorção da luz por um material", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual fenômeno explica a separação da luz branca em um espectro de cores ao passar por um prisma?",
+    "options": [
+      { "option": "Difração", "isCorrect": false },
+      { "option": "Interferência", "isCorrect": false },
+      { "option": "Dispersão", "isCorrect": true },
+      { "option": "Reflexão", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o fenômeno em que as ondas de luz se sobrepõem, criando padrões de luz e sombra?",
+    "options": [
+      { "option": "Interferência", "isCorrect": true },
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Difração", "isCorrect": false },
+      { "option": "Reflexão", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o nome do fenômeno em que a luz muda de direção ao passar através de uma fenda ou ao contornar um obstáculo?",
+    "options": [
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Difração", "isCorrect": true },
+      { "option": "Reflexão", "isCorrect": false },
+      { "option": "Dispersão", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o fenômeno que explica por que o céu é azul?",
+    "options": [
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Dispersão de Rayleigh", "isCorrect": true },
+      { "option": "Interferência", "isCorrect": false },
+      { "option": "Reflexão", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "O que ocorre durante o fenômeno da polarização da luz?",
+    "options": [
+      {
+        "option": "A luz é separada em suas cores componentes",
+        "isCorrect": false
+      },
+      {
+        "option": "A direção de oscilação da luz é restrita",
+        "isCorrect": true
+      },
+      { "option": "A luz é refletida em um espelho", "isCorrect": false },
+      { "option": "A velocidade da luz aumenta", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual aplicação da luz utiliza o fenômeno da refração para corrigir problemas de visão?",
+    "options": [
+      { "option": "Lentes de óculos", "isCorrect": true },
+      { "option": "Fibra óptica", "isCorrect": false },
+      { "option": "Laser", "isCorrect": false },
+      { "option": "Telescópio", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "QQual fenômeno é responsável pela formação de arcoíris?",
+    "options": [
+      { "option": "Reflexão", "isCorrect": false },
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Difração", "isCorrect": false },
+      { "option": "Dispersão", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "O que é um laser?",
+    "options": [
+      {
+        "option": "Uma fonte de luz coerente e monocromática",
+        "isCorrect": true
+      },
+      { "option": "Uma onda de som amplificada", "isCorrect": false },
+      { "option": "Uma partícula carregada", "isCorrect": false },
+      { "option": "Um campo magnético forte", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "O que ocorre com a luz quando ela é absorvida por um material?",
+    "options": [
+      {
+        "option": "Ela é refletida",
+        "isCorrect": false
+      },
+      { "option": "Ela é refratada", "isCorrect": false },
+      { "option": "Ela é transformada em calor", "isCorrect": true },
+      { "option": "Ela continua a se mover sem alteração", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual fenômeno é utilizado em óculos de sol para reduzir o brilho?",
+    "options": [
+      {
+        "option": "Polarização",
+        "isCorrect": true
+      },
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Dispersão", "isCorrect": false },
+      { "option": "Difração", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o princípio básico da fibra óptica?",
+    "options": [
+      { "option": "Reflexão interna total", "isCorrect": true },
+      { "option": "Refração parcial", "isCorrect": false },
+      { "option": "Difração", "isCorrect": false },
+      { "option": "Polarização", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "O que ocorre quando a luz passa por uma fenda estreita?",
+    "options": [
+      { "option": "Ela se refrata", "isCorrect": false },
+      { "option": "Ela se difrata", "isCorrect": true },
+      { "option": "Ela se polariza", "isCorrect": false },
+      { "option": "Ela se dispersa", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual fenômeno óptico é responsável por ilusões como miragens?",
+    "options": [
+      { "option": "Refração", "isCorrect": true },
+      { "option": "Reflexão", "isCorrect": false },
+      { "option": "Difração", "isCorrect": false },
+      { "option": "Interferência", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual tecnologia depende da reflexão da luz para visualizar objetos a grandes distâncias?",
+    "options": [
+      { "option": "Telescópio", "isCorrect": true },
+      { "option": "Microscópio", "isCorrect": false },
+      { "option": "Câmera", "isCorrect": false },
+      { "option": "Espelho", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "O que é uma onda eletromagnética?",
+    "options": [
+      {
+        "option": "Uma onda que se propaga através de materiais sólidos",
+        "isCorrect": false
+      },
+      {
+        "option": "Uma onda que transporta energia sem necessidade de um meio material",
+        "isCorrect": true
+      },
+      { "option": "Uma onda de pressão", "isCorrect": false },
+      { "option": "Uma onda estacionária", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual fenômeno é explorado em holografia?",
+    "options": [
+      { "option": "Difração e interferência", "isCorrect": true },
+      { "option": "Reflexão e refração", "isCorrect": false },
+      { "option": "Polarização e dispersão", "isCorrect": false },
+      { "option": "Refração e difração", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é a propriedade da luz que permite a criação de sombras?",
+    "options": [
+      { "option": "Propagação retilínea", "isCorrect": true },
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Difração", "isCorrect": false },
+      { "option": "Dispersão", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o princípio por trás da formação de imagens em espelhos planos?",
+    "options": [
+      { "option": "Reflexão regular", "isCorrect": true },
+      { "option": "Reflexão difusa", "isCorrect": false },
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Difração", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "O que é a velocidade da luz em um meio diferente do vácuo?",
+    "options": [
+      { "option": "Sempre menor que no vácuo", "isCorrect": true },
+      { "option": "Sempre igual ao vácuo", "isCorrect": false },
+      { "option": "Sempre maior que no vácuo", "isCorrect": false },
+      {
+        "option": "Pode ser maior ou menor, dependendo do meio",
+        "isCorrect": false
+      }
+    ]
+  },
+
+  {
+    "question": "O que é um prisma óptico?",
+    "options": [
+      {
+        "option": "Um dispositivo que separa a luz em suas cores componentes",
+        "isCorrect": true
+      },
+      { "option": "Um dispositivo que polariza a luz", "isCorrect": false },
+      { "option": "Um dispositivo que absorve a luz", "isCorrect": false },
+      { "option": "Um dispositivo que amplifica a luz", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual fenômeno óptico é usado para aumentar a resolução em microscópios ópticos?",
+    "options": [
+      { "option": "Imersão em óleo", "isCorrect": true },
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Reflexão", "isCorrect": false },
+      { "option": "Dispersão", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "O que é a dispersão da luz?",
+    "options": [
+      { "option": "Separação da luz em diferentes cores", "isCorrect": true },
+      { "option": "Reflexão da luz em uma superfície", "isCorrect": false },
+      { "option": "Absorção da luz por um material", "isCorrect": false },
+      { "option": "Polarização da luz", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é a principal função dos filtros polarizadores em fotografia?",
+    "options": [
+      { "option": "Reduzir reflexos e brilho", "isCorrect": true },
+      { "option": "Aumentar a saturação das cores", "isCorrect": false },
+      { "option": "Aumentar a nitidez", "isCorrect": false },
+      { "option": "Ampliar a imagem", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual fenômeno é utilizado para estudar as propriedades da luz e das superfícies?",
+    "options": [
+      { "option": "Reflexão", "isCorrect": false },
+      { "option": "Interferometria", "isCorrect": true },
+      { "option": "Difração", "isCorrect": false },
+      { "option": "Polarização", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual filósofo grego acreditava que a visão era causada por raios emitidos pelos olhos?",
+    "options": [
+      { "option": "Platão", "isCorrect": false },
+      { "option": "Empédocles", "isCorrect": false },
+      { "option": "Euclides", "isCorrect": true },
+      { "option": "Aristóteles", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Quem desenvolveu a teoria corpuscular da luz?",
+    "options": [
+      { "option": "Albert Einstein", "isCorrect": false },
+      { "option": "James Clerk Maxwell", "isCorrect": false },
+      { "option": "Christiaan Huygens", "isCorrect": false },
+      { "option": "Isaac Newton", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Qual cientista islâmico foi pioneiro no estudo da óptica?",
+    "options": [
+      { "option": "Alhazen", "isCorrect": true },
+      { "option": "Avicena", "isCorrect": false },
+      { "option": "Omar Khayyam", "isCorrect": false },
+      { "option": "Al-Kindi", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "O que o experimento de Young demonstrou?",
+    "options": [
+      { "option": "A dualidade onda-partícula", "isCorrect": false },
+      { "option": "A refração da luz", "isCorrect": false },
+      { "option": "A luz como onda eletromagnética", "isCorrect": false },
+      { "option": "A natureza ondulatória da luz", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Qual fenômeno foi usado por Newton para defender sua teoria corpuscular?",
+    "options": [
+      { "option": "Dispersão", "isCorrect": true },
+      { "option": "Difração", "isCorrect": false },
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Reflexão", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Quem propôs a teoria ondulatória da luz no século XVII?",
+    "options": [
+      { "option": "René Descartes", "isCorrect": false },
+      { "option": "Isaac Newton", "isCorrect": false },
+      { "option": "Christiaan Huygens", "isCorrect": true },
+      { "option": "Galileu Galilei", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual foi a principal contribuição de Maxwell para o estudo da luz?",
+    "options": [
+      { "option": "A luz como onda eletromagnética", "isCorrect": true },
+      { "option": "A refração da luz", "isCorrect": false },
+      { "option": "A teoria corpuscular", "isCorrect": false },
+      { "option": "A dualidade onda-partícula", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "O que o experimento de Michelson e Morley tentou provar?",
+    "options": [
+      { "option": "A existência do éter", "isCorrect": true },
+      { "option": "A velocidade da luz", "isCorrect": false },
+      { "option": "A dualidade da luz", "isCorrect": false },
+      { "option": "A natureza corpuscular da luz", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "A teoria quântica da luz foi proposta inicialmente por qual cientista?",
+    "options": [
+      { "option": "Max Planck", "isCorrect": false },
+      { "option": "Niels Bohr", "isCorrect": false },
+      { "option": "Albert Einstein", "isCorrect": true },
+      { "option": "Werner Heisenberg", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual fenômeno foi usado para confirmar a teoria de Maxwell sobre a luz?",
+    "options": [
+      { "option": "Interferência", "isCorrect": false },
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Polarização", "isCorrect": false },
+      { "option": "Ondas de rádio", "isCorrect": true }
+    ]
+  }
+]
