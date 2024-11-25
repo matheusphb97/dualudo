@@ -1,0 +1,437 @@
+[
+  {
+    "question": "Qual filósofo grego acreditava que a luz emanava dos olhos, explicando a visão como um processo de 'emissão de raios'?",
+    "options": [
+      { "option": "Empédocles", "isCorrect": true },
+      { "option": "Aristóteles", "isCorrect": false },
+      { "option": "Platão", "isCorrect": false },
+      { "option": "Pitágoras", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Quem foi o filósofo grego que, no século V a.C., sugeriu que a luz era composta por partículas minúsculas, antecipando ideias que seriam mais tarde confirmadas na teoria corpuscular da luz?",
+    "options": [
+      { "option": "Platão", "isCorrect": false },
+      { "option": "Empédocles", "isCorrect": false },
+      { "option": "Demócrito", "isCorrect": true },
+      { "option": "Pitágoras", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual filósofo grego propôs que a luz era transmitida por uma substância 'etérea' e invisível que preenchia todo o espaço?",
+    "options": [
+      { "option": "Aristóteles", "isCorrect": true },
+      { "option": "Pitágoras", "isCorrect": false },
+      { "option": "Empédocles", "isCorrect": false },
+      { "option": "Demócrito", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual filósofo grego foi o primeiro a considerar que a luz e a visão poderiam ser explicadas com base em uma interação entre a luz e os objetos vistos?",
+    "options": [
+      { "option": "Aristóteles", "isCorrect": false },
+      { "option": "Pitágoras", "isCorrect": false },
+      { "option": "Platão", "isCorrect": false },
+      { "option": "Empédocles", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Quem foi o cientista islâmico que, no século XI, fez importantes descobertas sobre a óptica e descreveu a teoria da luz refletida?",
+    "options": [
+      { "option": "Alhazen", "isCorrect": true },
+      { "option": "Avicena", "isCorrect": false },
+      { "option": "Al-Kindi", "isCorrect": false },
+      { "option": "Omar Khayyam", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é a principal contribuição de Alhazen para a óptica e a ciência da luz?",
+    "options": [
+      { "option": "Ele inventou a primeira lente convexa", "isCorrect": false },
+      { "option": "Ele explicou a reflexão da luz e descreveu a câmara escura", "isCorrect": true },
+      { "option": "Ele formulou a teoria ondulatória da luz", "isCorrect": false },
+      { "option": "Ele propôs que a luz viajava a uma velocidade finita", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "O que é a câmara escura, que foi descrita por Alhazen no século XI?",
+    "options": [
+      { "option": "Um dispositivo que converte luz em calor", "isCorrect": false },
+      { "option": "Um tipo de lente para correção de visão", "isCorrect": false },
+      { "option": "Um dispositivo que projetava imagens invertidas, fundamental para o estudo da óptica", "isCorrect": true },
+      { "option": "Uma técnica para difundir a luz em espaços fechados", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual foi a grande inovação de Alhazen em relação ao estudo da luz e da visão?",
+    "options": [
+      { "option": "Ele inventou a primeira lente de aumento", "isCorrect": false },
+      { "option": "Ele descobriu a composição da luz branca", "isCorrect": false },
+      { "option": "Ele introduziu o método experimental no estudo da óptica", "isCorrect": true },
+      { "option": "Ele formulou a teoria da reflexão da luz", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "A câmara escura de Alhazen foi essencial para o desenvolvimento de quais tecnologias modernas?",
+    "options": [
+      { "option": "Câmeras fotográficas", "isCorrect": true },
+      { "option": "Telescópios", "isCorrect": false },
+      { "option": "Lentes de aumento", "isCorrect": false },
+      { "option": "Lentes de contato", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "O que Alhazen provou sobre a luz ao estudar as sombras formadas pela câmara escura?",
+    "options": [
+      { "option": "A luz viaja em linhas retas e se reflete de maneira previsível", "isCorrect": true },
+      { "option": "A luz se dispersa ao passar por um objeto", "isCorrect": false },
+      { "option": "A luz se propaga em ondas", "isCorrect": false },
+      { "option": "A luz não pode ser bloqueada", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Quem foi o cientista do Renascimento Europeu que formulou as leis do movimento planetário e sugeriu que a luz viajava em linha reta?",
+    "options": [
+      { "option": "Johannes Kepler", "isCorrect": true },
+      { "option": "René Descartes", "isCorrect": false },
+      { "option": "Isaac Newton", "isCorrect": false },
+      { "option": "Galileo Galilei", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual cientista do Renascimento Europeu (século XVII) descreveu a refração da luz e propôs que a luz viaja de forma similar às partículas, mas não como uma onda?",
+    "options": [
+      { "option": "Johannes Kepler", "isCorrect": false },
+      { "option": "René Descartes", "isCorrect": true },
+      { "option": "Isaac Newton", "isCorrect": false },
+      { "option": "Christiaan Huygens", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Quem foi o cientista que explicou a formação do arco-íris no século XVII, sugerindo que a luz se refratava e se refletia dentro das gotas de água?",
+    "options": [
+      { "option": "Isaac Newton", "isCorrect": false },
+      { "option": "Christiaan Huygens", "isCorrect": false },
+      { "option": "René Descartes", "isCorrect": true },
+      { "option": "Johannes Kepler", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual foi a explicação de René Descartes para a formação do arco-íris?",
+    "options": [
+      { "option": "A luz é refletida diretamente pela atmosfera e se dispersa em cores.", "isCorrect": false },
+      { "option": "A luz se refrata e reflete dentro de gotas de água, criando um espectro de cores.", "isCorrect": true },
+      { "option": "O arco-íris é formado pela combinação de diferentes comprimentos de onda da luz solar.", "isCorrect": false },
+      { "option": "A luz é absorvida pelas gotas de água e emitida em várias cores diferentes.", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual cientista do século XVII (Era Clássica da Física) formulou a teoria corpuscular da luz, sugerindo que a luz era composta por partículas chamadas corpúsculos?",
+    "options": [
+      { "option": "Isaac Newton", "isCorrect": true },
+      { "option": "Christiaan Huygens", "isCorrect": false },
+      { "option": "Albert Einstein", "isCorrect": false },
+      { "option": "Johannes Kepler", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Quem foi o cientista do século XVII (Era Clássica da Física) que propôs a teoria ondulatória da luz, sugerindo que a luz se propagava como ondas no éter?",
+    "options": [
+      { "option": "Isaac Newton", "isCorrect": false },
+      { "option": "Christiaan Huygens", "isCorrect": true },
+      { "option": "Galileo Galilei", "isCorrect": false },
+      { "option": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Quem foi o cientista que, no século XVII, explicou que a luz branca é composta por várias cores ao ser refratada por um prisma?",
+    "options": [
+      { "option": "Isaac Newton", "isCorrect": true },
+      { "option": "Christiaan Huygens", "isCorrect": false },
+      { "option": "Johannes Kepler", "isCorrect": false },
+      { "option": "Robert Hooke", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Em qual experimento Isaac Newton demonstrou que a luz branca era composta por várias cores, usando um prisma?",
+    "options": [
+      { "option": "Experimento com a fenda de Young", "isCorrect": false },
+      { "option": "Experimento com lentes e espelhos", "isCorrect": false },
+      { "option": "Experimento com o prisma", "isCorrect": true },
+      { "option": "Experimento com a dispersão da luz no arco-íris", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Quem foi o cientista que, ao estudar a luz, sugeriu que a luz não era uma substância material, mas sim um fenômeno ondulatório, mais tarde confirmado por experimentos como a fenda dupla?",
+    "options": [
+      { "option": "Isaac Newton", "isCorrect": false },
+      { "option": "Christiaan Huygens", "isCorrect": true },
+      { "option": "James Clerk Maxwell", "isCorrect": false },
+      { "option": "Albert Einstein", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Quais cientistas divergiram sobre a natureza da luz no século XVII (Era Clássica da Física), embate entre a teoria corpuscular e Huygens propondo a teoria ondulatória?",
+    "options": [
+      { "option": "Galileu Galilei e Isaac Newton", "isCorrect": false },
+      { "option": "Isaac Newton e Christiaan Huygens", "isCorrect": true },
+      { "option": "Johannes Kepler e Albert Einstein", "isCorrect": false },
+      { "option": "James Clerk Maxwell e Thomas Young", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Quem foi o cientista que, no início do século XIX, confirmou a natureza ondulatória da luz por meio do experimento da fenda dupla?",
+    "options": [
+      { "option": "Isaac Newton", "isCorrect": false },
+      { "option": "Thomas Young", "isCorrect": true },
+      { "option": "James Clerk Maxwell", "isCorrect": false },
+      { "option": "Christiaan Huygens", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual foi a principal descoberta de Thomas Young em seu experimento com a fenda dupla?",
+    "options": [
+      { "option": "A luz é composta por partículas chamadas corpúsculos", "isCorrect": false },
+      { "option": "A luz exibe interferência, confirmando seu comportamento ondulatório", "isCorrect": true },
+      { "option": "A luz é composta por ondas eletromagnéticas", "isCorrect": false },
+      { "option": "A luz viaja em linha reta e não pode ser refratada", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Quem foi o cientista que, no século XIX, unificou as teorias do eletromagnetismo e demonstrou que a luz é uma onda eletromagnética?",
+    "options": [
+      { "option": "Isaac Newton", "isCorrect": false },
+      { "option": "Thomas Young", "isCorrect": false },
+      { "option": "James Clerk Maxwell", "isCorrect": true },
+      { "option": "Albert Einstein", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual foi a contribuição de James Clerk Maxwell para a teoria da luz?",
+    "options": [
+      { "option": "Ele provou que a luz viaja a velocidades diferentes em meios distintos", "isCorrect": false },
+      { "option": "Ele descreveu a luz como uma onda mecânica", "isCorrect": false },
+      { "option": "Ele demonstrou que a luz é uma onda eletromagnética, parte do espectro de radiação", "isCorrect": true },
+      { "option": "Ele propôs que a luz se comporta como partículas", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Como o experimento de Thomas Young desafiou a teoria corpuscular de Newton?",
+    "options": [
+      { "option": "Mostrando que a luz é composta de partículas", "isCorrect": false },
+      { "option": "Provando que a luz reflete de forma previsível", "isCorrect": false },
+      { "option": "Demonstrando padrões de interferência que só podem ser explicados pela teoria ondulatória", "isCorrect": true },
+      { "option": "Confirmando que a luz viaja em linha reta", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual foi a contribuição mais importante de Maxwell em relação à velocidade da luz?",
+    "options": [
+      { "option": "Ele mediu a velocidade da luz usando um prisma", "isCorrect": false },
+      { "option": "Ele mostrou que a velocidade da luz no vácuo é constante e depende das propriedades elétricas e magnéticas do espaço", "isCorrect": true },
+      { "option": "Ele determinou que a velocidade da luz varia de acordo com o meio", "isCorrect": false },
+      { "option": "Ele provou que a luz viaja mais rápido no ar do que na água", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "O que James Clerk Maxwell unificou com suas equações que revolucionaram o estudo da luz e do eletromagnetismo?",
+    "options": [
+      { "option": "A teoria corpuscular e ondulatória da luz", "isCorrect": false },
+      { "option": "Os fenômenos de eletricidade e magnetismo, explicando que a luz é uma onda eletromagnética", "isCorrect": true },
+      { "option": "A refração e a reflexão da luz", "isCorrect": false },
+      { "option": "O comportamento da luz em meios sólidos e líquidos", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual foi a principal contribuição de Max Planck para o estudo da luz e da radiação?",
+    "options": [
+      { "option": "Ele demonstrou que a luz é composta por partículas chamadas corpúsculos", "isCorrect": false },
+      { "option": "Ele propôs a quantização da energia, sugerindo que a radiação é emitida em pacotes discretos chamados quanta", "isCorrect": true },
+      { "option": "Ele provou que a luz é uma onda eletromagnética", "isCorrect": false },
+      { "option": "Ele descobriu que a velocidade da luz varia conforme o meio", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Quem foi o cientista que explicou o efeito fotoelétrico, demonstrando que a luz é composta por partículas chamadas fótons, e recebeu o Prêmio Nobel de Física por essa descoberta?",
+    "options": [
+      { "option": "Max Planck", "isCorrect": false },
+      { "option": "Albert Einstein", "isCorrect": true },
+      { "option": "Niels Bohr", "isCorrect": false },
+      { "option": "Werner Heisenberg", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "O que Max Planck introduziu em sua teoria da radiação de corpo negro que contradizia a Física clássica?",
+    "options": [
+      { "option": "Que a energia é contínua e pode ser dividida indefinidamente", "isCorrect": false },
+      { "option": "Que a energia é emitida em quantidades discretas chamadas quanta", "isCorrect": true },
+      { "option": "Que a luz se comporta exclusivamente como uma onda", "isCorrect": false },
+      { "option": "Que a radiação de corpo negro depende da temperatura", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual foi a explicação de Albert Einstein para o efeito fotoelétrico?",
+    "options": [
+      { "option": "A luz age como uma onda, causando a liberação de elétrons", "isCorrect": false },
+      { "option": "A luz interage com os elétrons como partículas chamadas fótons, transferindo energia para removê-los do material", "isCorrect": true },
+      { "option": "A luz se refrata no material, liberando elétrons", "isCorrect": false },
+      { "option": "A luz aquece o material, aumentando a energia dos elétrons", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "O que a constante de Planck representa no contexto da teoria quântica?",
+    "options": [
+      { "option": "A velocidade máxima que a luz pode atingir", "isCorrect": false },
+      { "option": "A relação entre a energia de um fóton e a sua frequência", "isCorrect": true },
+      { "option": "A quantidade de energia necessária para ionizar um elétron", "isCorrect": false },
+      { "option": "A densidade da radiação em um corpo negro", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual foi a principal contribuição da teoria quântica para o entendimento da natureza dual da luz?",
+    "options": [
+      { "option": "A luz é composta apenas por partículas", "isCorrect": false },
+      { "option": "A luz se comporta exclusivamente como uma onda", "isCorrect": false },
+      { "option": "A luz possui uma dualidade onda-partícula, podendo agir como onda ou partícula dependendo do experimento", "isCorrect": true },
+      { "option": "A luz viaja mais rápido no vácuo do que no ar", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual foi a descoberta feita por Arthur Leonard Schawlow e Charles Hard Townes em 1960, que teve um impacto significativo na tecnologia moderna e é amplamente utilizada em comunicações e medicina?",
+    "options": [
+      { "option": "A existência das ondas gravitacionais", "isCorrect": false },
+      { "option": "A invenção do laser, que emite luz coerente em uma única direção", "isCorrect": true },
+      { "option": "A confirmação da natureza ondulatória da luz através de interferência", "isCorrect": false },
+      { "option": "A descoberta da luz visível no espectro eletromagnético", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual das descobertas mais recentes na Física quântica ajudou a melhorar as tecnologias de comunicação e computação, como a computação quântica e criptografia?",
+    "options": [
+      { "option": "O comportamento de fótons como partículas que viajam apenas no vácuo", "isCorrect": false },
+      { "option": "A descoberta de que a luz pode ser 'emaranhada' e usada para transmissão instantânea de informações", "isCorrect": true },
+      { "option": "A luz não pode ser manipulada em tecnologias modernas", "isCorrect": false },
+      { "option": "O desenvolvimento de novos lasers que emitem luz em frequências não visíveis", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o fenômeno em que a luz muda de direção ao passar de um meio para outro com densidades diferentes?",
+    "options": [
+      { "option": "Difração", "isCorrect": false },
+      { "option": "Refração", "isCorrect": true },
+      { "option": "Interferência", "isCorrect": false },
+      { "option": "Polarização", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o fenômeno em que as ondas de luz se curvam ao passar por uma borda ou por uma abertura estreita?",
+    "options": [
+      { "option": "Reflexão", "isCorrect": false },
+      { "option": "Difração", "isCorrect": true },
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Polarização", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o fenômeno em que as ondas de luz se sobrepõem, criando padrões de luz e sombra devido à interação construtiva e destrutiva?",
+    "options": [
+      { "option": "Interferência", "isCorrect": true },
+      { "option": "Difração", "isCorrect": false },
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Polarização", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o fenômeno em que as oscilações da luz são restringidas a uma única direção?",
+    "options": [
+      { "option": "Polarização", "isCorrect": true },
+      { "option": "Interferência", "isCorrect": false },
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Difração", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o fenômeno em que uma onda é amplificada quando sua frequência coincide com a frequência natural de um sistema?",
+    "options": [
+      { "option": "Ressonância", "isCorrect": true },
+      { "option": "Polarização", "isCorrect": false },
+      { "option": "Difração", "isCorrect": false },
+      { "option": "Refração", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o fenômeno responsável pela separação da luz branca em um espectro de cores ao passar por um prisma?",
+    "options": [
+      { "option": "Refração", "isCorrect": true },
+      { "option": "Difração", "isCorrect": false },
+      { "option": "Polarização", "isCorrect": false },
+      { "option": "Interferência", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o fenômeno em que uma onda de luz sofre uma reflexão interna ao atravessar meios como fibra óptica, permitindo que ela se propague sem perda significativa?",
+    "options": [
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Reflexão Interna Total", "isCorrect": true },
+      { "option": "Difração", "isCorrect": false },
+      { "option": "Polarização", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o fenômeno responsável pelas cores vistas em bolhas de sabão, devido à interação entre ondas refletidas nas superfícies interna e externa?",
+    "options": [
+      { "option": "Interferência", "isCorrect": true },
+      { "option": "Polarização", "isCorrect": false },
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Difração", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o fenômeno em que a luz refletida em superfícies como água ou vidro é parcialmente filtrada, reduzindo o brilho?",
+    "options": [
+      { "option": "Polarização", "isCorrect": true },
+      { "option": "Difração", "isCorrect": false },
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Interferência", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o fenômeno em que a luz muda sua trajetória devido à presença de obstáculos muito pequenos, criando padrões como os vistos em hologramas?",
+    "options": [
+      { "option": "Difração", "isCorrect": true },
+      { "option": "Interferência", "isCorrect": false },
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Polarização", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o fenômeno que ocorre quando uma lente refrata a luz para formar uma imagem em um ponto focal?",
+    "options": [
+      { "option": "Refração", "isCorrect": true },
+      { "option": "Polarização", "isCorrect": false },
+      { "option": "Difração", "isCorrect": false },
+      { "option": "Ressonância", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o fenômeno em que ondas sonoras ou de luz ressoam, amplificando sua intensidade, como em instrumentos musicais ou lasers?",
+    "options": [
+      { "option": "Ressonância", "isCorrect": true },
+      { "option": "Interferência", "isCorrect": false },
+      { "option": "Refração", "isCorrect": false },
+      { "option": "Polarização", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Qual é o fenômeno que cria os anéis de Newton, padrões circulares de luz e sombra causados pela interação de ondas refletidas entre duas superfícies?",
+    "options": [
+      { "option": "Interferência", "isCorrect": true },
+      { "option": "Difração", "isCorrect": false },
+      { "option": "Polarização", "isCorrect": false },
+      { "option": "Refração", "isCorrect": false }
+    ]
+  }
+]
+
+
+
